@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/preset-typescript": "^7.26.0",
+    "@babel/preset-typescript": "^8.0.0",
     "@swc-node/register": "^1.10.9",
     "@types/jest": "^30.0.0",
     "jest": "^30.0.0",
